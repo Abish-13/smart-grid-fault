@@ -2,7 +2,7 @@
 
 // 🔥 PASTE YOUR FIREBASE CONFIG OBJECT HERE
 const firebaseConfig = {
-    apiKey: "AIzaSyCR5vwZEQnxfyNqbYZuhfQ8JjYUib1bdQM",
+    apiKey: "AIzaSyCxodNCu0KhZHabxG8ClGPE6z9oaI1HQO8",
     authDomain: "smart-powerline-monitor.firebaseapp.com",
     databaseURL: "https://smart-powerline-monitor-default-rtdb.firebaseio.com",
     projectId: "smart-powerline-monitor",
