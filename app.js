@@ -2,7 +2,6 @@
 
 // 🔥 PASTE YOUR FIREBASE CONFIG OBJECT HERE
 const firebaseConfig = {
-    apiKey: "AIzaSyCxodNCu0KhZHabxG8ClGPE6z9oaI1HQO8",
     authDomain: "smart-powerline-monitor.firebaseapp.com",
     databaseURL: "https://smart-powerline-monitor-default-rtdb.firebaseio.com",
     projectId: "smart-powerline-monitor",
@@ -12,7 +11,7 @@ const firebaseConfig = {
 };
 
 // 🔥 PASTE YOUR GEMINI API KEY HERE
-const geminiApiKey = "AIzaSyCxodNCu0KhZHabxG8ClGPE6z9oaI1HQO8";
+const geminiApiKey = prompt("Enter your Gemini API Key:");
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
