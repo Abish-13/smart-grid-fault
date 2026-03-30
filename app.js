@@ -2,12 +2,13 @@
 
 // 🔥 PASTE YOUR FIREBASE CONFIG OBJECT HERE
 const firebaseConfig = {
-    authDomain: "smart-powerline-monitor.firebaseapp.com",
-    databaseURL: "https://smart-powerline-monitor-default-rtdb.firebaseio.com",
-    projectId: "smart-powerline-monitor",
-    storageBucket: "smart-powerline-monitor.firebasestorage.app",
-    messagingSenderId: "337038810191",
-    appId: "1:337038810191:web:bb785fd79024a9d09dde3a"
+  apiKey: "AIzaSyBGvpPE93-6wJH1sapjhJJDJrFzmkgk4DQ",
+  authDomain: "smart-grid-guardian.firebaseapp.com",
+  projectId: "smart-grid-guardian",
+  storageBucket: "smart-grid-guardian.firebasestorage.app",
+  messagingSenderId: "799686912678",
+  appId: "1:799686912678:web:1822841ce840eaf5d56267",
+  measurementId: "G-CGZGG4Y7ZY"
 };
 
 // 🔥 PASTE YOUR GEMINI API KEY HERE
