@@ -2,7 +2,6 @@
 
 // 🔥 PASTE YOUR FIREBASE CONFIG OBJECT HERE
 const firebaseConfig = {
-  apiKey: "AIzaSyBGvpPE93-6wJH1sapjhJJDJrFzmkgk4DQ",
   authDomain: "smart-grid-guardian.firebaseapp.com",
   projectId: "smart-grid-guardian",
   storageBucket: "smart-grid-guardian.firebasestorage.app",
