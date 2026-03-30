@@ -12,7 +12,7 @@ const firebaseConfig = {
 };
 
 // 🔥 PASTE YOUR GEMINI API KEY HERE
-const geminiApiKey = "AIzaSyCxodNCu0KhZHabxG8ClGPE6z9oaI1HQO8";
+const geminiApiKey = "AIzaSyAQ5snflOuME56_AB4E8muErp6xNpXHd84";
 
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
