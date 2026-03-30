@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- 3. GEMINI API FUNCTIONS --- (Unchanged)
 
-    const apiBaseUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${geminiApiKey}`;
+    const apiBaseUrl =`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiApiKey}`;
     const maxRetries = 3;
 
     async function fetchWithBackoff(url, options, retryCount = 0) {
